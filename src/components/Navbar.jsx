@@ -48,4 +48,10 @@ const Navbar = (props) => {
   );
 };
 
+// Navbar.propTypes = {
+//   title: PropTypes.string.isRequired,
+// }
+
 export default Navbar;
+
+
